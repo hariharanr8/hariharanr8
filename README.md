@@ -1,7 +1,15 @@
 ## Hi there 👋 It's me Hariharan
 
-# 💫 About Me:
-### 🧑‍💻 About Me :<br><br>🎓 **Electronics and Communication Engineering Graduate (2025)** with a strong passion for bridging the gap between hardware and software. I am deeply focused on building a career in **Embedded Systems and Firmware Development**.<br><br>* 🔭 **I’m currently working on:** Developing bare-metal and Linux-based embedded solutions to sharpen my firmware development skills.<br>* 🌱 **I’m currently learning:** Advanced Linux kernel concepts, device drivers, and deep-diving into optimized memory management.<br>* 🛠️ **Tech Stack:** C, C++, Microcontrollers, Linux/RTOS, and Hardware Communication Protocols (I2C, SPI, UART).<br>* 💬 **Ask me about:** C programming, bitwise operations, microcontrollers, or why I love hardware debugging.<br>* ⚡ **Fun fact:** I actually enjoy debugging code line-by-line without relying on auto-suggestions—it keeps my brain sharp!
+## 🧑‍💻 About Me
+
+🎓 Electronics and Communication Engineering Graduate (2025) with a strong interest in Embedded Software and Firmware Development. I enjoy building reliable software that interacts closely with hardware and continuously enhance my skills in Embedded Linux and low-level programming.
+
+- 🔭 Currently working on embedded projects using C and Linux.
+- 🌱 Currently learning Embedded Linux, Device Drivers, and RTOS.
+- 💻 Skilled in C, C++, File Handling, Data Structures, and Linux programming.
+- ⚙️ Interested in Microcontrollers, Embedded Systems, Firmware Development, and Hardware Communication Protocols (UART, SPI, I2C).
+- 🚀 Passionate about writing efficient, reliable, and maintainable code.
+- 📚 Continuously improving problem-solving skills through hands-on projects and coding practice.
 
 
 ## 🌐 Socials:
